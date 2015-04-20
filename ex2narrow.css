@@ -1,0 +1,14 @@
+h1 {
+  border-color: blue;
+  font-size: 70px;
+  text-align: center;
+  font-color: lightblue;
+  padding: 5px;
+  background-color: blue;
+}
+
+nav {
+  text-align: left;
+  float: left;
+  width: 12%;
+}
